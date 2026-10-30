@@ -77,6 +77,32 @@ The project uses four data tables:
 - Order Status Breakdown
 - Customer Type Analysis
 
+---
+
+## 📸 Power BI Dashboard Preview
+
+This project includes six interactive dashboard pages covering restaurant performance, customer behaviour, revenue analysis, and delivery operations.
+
+### 1. Overview Dashboard
+![Overview Dashboard](Screenshots/01_Overview.png)
+
+### 2. Customer Analytics
+![Customer Analytics](Screenshots/02_Customer_Analytics.png)
+
+### 3. Restaurant Performance
+![Restaurant Performance](Screenshots/03_Restaurant_Performance.png)
+
+### 4. Delivery & Operations
+![Delivery & Operations](Screenshots/04_Delivery_Operations.png)
+
+### 5. Advanced Insights
+![Advanced Insights](Screenshots/05_Advanced_Insights.png)
+
+### 6. Restaurant Details
+![Restaurant Details](Screenshots/06_Restaurant_Details.png)
+
+---
+
 ## 📐 Key DAX Measures
 
 Some of the important measures developed in this project:
